@@ -76,7 +76,14 @@ Depending on how you print this, this may look like a real gun from afar. Don't 
 
 ## Licensing notice
 
-This is released under a *[Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)* license. As far as I am concerned, you may sell printed copies if you honor the license (meaning each sold copy includes a visible reference to this Thing page). Because this is based on a design by [RBGuns.com](https://www.rbguns.com/) however, additional licensing may need to be obtained from them if you want to sell this for profit.
+This is released under a *[Creative Commons - Attribution - Share Alike](http://creativecommons.org/licenses/by-sa/3.0/)* license. As far as I am concerned, you may sell printed copies, even without explicitly asking permission, at the condition that you honor the license. In a nutshell:
+- Each sold copy must include a visible reference and link to this Thing page, for instance a printout of the attribution cards provided as PDF in this repository.
+- On any online store page where you sell this, there must also be a visible link to this GitHub page.
+- The Share Alike part of the license means that you must publish the model files for any variations you make on this model, and they must be published under the same or a compatible license.
+
+For more details about my interpretation of the CC BY-SA license, see the [licensing section of the Flexi Rex repository](https://github.com/DrLex0/print3D-FlexiRex#license-clarification-read-this-before-contacting-me).
+
+Because this is based on a design by [RBGuns.com](https://www.rbguns.com/) however, additional licensing may need to be obtained from them if you want to sell this for profit.
 
 
 ## How I designed this
